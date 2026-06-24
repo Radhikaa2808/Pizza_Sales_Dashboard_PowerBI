@@ -45,5 +45,5 @@ To demonstrate data analysis skills by:
 Building interactive dashboards in Power BI
 Presenting business-focused findings
 
-Radhika Pal
+Radhika Pal <br>
 DataScience | Data Analysis | AI
