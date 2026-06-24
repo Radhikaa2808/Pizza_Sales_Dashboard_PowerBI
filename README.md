@@ -2,7 +2,13 @@
  
 **Project Overview**
 This project analyzes pizza sales data to uncover key business insights using Power BI.
-The goal is to evaluate sales performance, identify top and bottom products, and understand customer ordering patterns.
+<br>
+The goal is : 
+<br>
+1.)To evaluate sales performance
+<br>
+2.)Identify top and bottom products <br>
+3.)Understand customer ordering patterns
 
 
 🔹 Product Performance
