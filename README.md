@@ -39,5 +39,5 @@ To demonstrate data analysis skills by:
 Building interactive dashboards in Power BI
 Presenting business-focused findings
 
-Rhea Mendonca
-Aspiring Data Analyst
+Radhika Pal
+DataScience | Data Analysis | AI
